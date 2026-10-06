@@ -1,5 +1,4 @@
 -- Global Energy & Oil Business Analysis
--- Assumed SQL dialect: PostgreSQL
 -- Load CSVs into tables named:
 -- country_master, energy_monthly_master, global_market_monthly_master,
 -- macro_annual_master, oil_trade_master, oil_consumption_master,
