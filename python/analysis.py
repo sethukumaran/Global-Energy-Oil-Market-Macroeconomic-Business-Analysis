@@ -1,7 +1,6 @@
 """
 Global Energy & Oil Business Analysis
-Senior Analyst-style EDA, data-quality checks, KPI analysis and visualization.
-Place all 8 CSVs in the same directory as this script before execution.
+
 """
 import pandas as pd
 import numpy as np
